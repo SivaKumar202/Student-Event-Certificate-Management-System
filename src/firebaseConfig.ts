@@ -8,7 +8,7 @@ import { getStorage, ref, getDownloadURL } from "firebase/storage";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCpQS1SdszBIMBtjbjDLwaBYHy70_DFPuQ",
+  apiKey: "code your Key here",
   authDomain: "sasi-8b3d0.firebaseapp.com",
   projectId: "sasi-8b3d0",
   storageBucket: "sasi-8b3d0.firebasestorage.app",
