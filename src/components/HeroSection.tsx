@@ -121,7 +121,7 @@ const HeroSection = () => {
               <img
                 className="w-full h-full object-contain p-4"
                 alt="SASI Institute"
-                src="https://ite.sasi.ac.in/assets/img/logo/sasi.png"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBSpD-pLvZ5xHrxkkFVOiHKicybQ79e79zQ&s"
               />
             </motion.div>
           </motion.div>
