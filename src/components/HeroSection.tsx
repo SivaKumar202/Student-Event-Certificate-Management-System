@@ -79,6 +79,7 @@ const HeroSection = () => {
             className="flex gap-4"
             variants={fadeInUp}
           >
+            <a href="https://www.ieee.org/" target='_'>
             <motion.button 
               className="px-8 py-3 text-sm font-medium text-white bg-gradient-to-r from-[#4facfe] to-[#00f2fe] rounded-full transform transition-all duration-300 hover:scale-105 hover:shadow-[0_0_20px_rgba(79,172,254,0.3)]"
               whileHover={{ scale: 1.05 }}
@@ -86,6 +87,7 @@ const HeroSection = () => {
             >
               Join IEEE
             </motion.button>
+            </a>
             <motion.button 
               className="px-8 py-3 text-sm font-medium rounded-full border-2 border-[#4facfe] text-[#4facfe] backdrop-blur-sm transition-all duration-300 hover:bg-[#4facfe] hover:text-white hover:shadow-[0_0_20px_rgba(79,172,254,0.3)]"
               whileHover={{ scale: 1.05 }}
@@ -146,7 +148,7 @@ const HeroSection = () => {
               <img
                 className="w-full h-full object-contain p-4"
                 alt="IEEE Logo"
-                src="https://ite.sasi.ac.in/assets/img/logo/IEEE_Logo.png"
+                src="https://1000logos.net/wp-content/uploads/2019/03/IEEE-emblem.jpg"
               />
             </motion.div>
           </motion.div>
